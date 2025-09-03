@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deekshith Gowda S</h1>
+<h1> Hi 👋, I'm Deekshith Gowda S</h1>
 Welcome to my GitHub profile!  
 I’m passionate about *coding, problem solving, and building projects* that make an impact.  
 Here you’ll find my work in *C, C++, Python, Web Development, and Data Structures*.
