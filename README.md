@@ -96,7 +96,6 @@ Currently strengthening my skills in Java Full Stack Development by building ind
 - 🌿 Spring IoC
 - 💉 Dependency Injection
 - 🚀 Spring Boot
-- 🌐 REST APIs
 - 🗄 Hibernate ORM
 
 ---
