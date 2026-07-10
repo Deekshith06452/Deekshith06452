@@ -7,33 +7,41 @@
 </h3>
 
 <p align="center">
-Passionate about building scalable Java applications and solving real-world problems using Java technologies. I enjoy learning new frameworks, developing industry-level projects, and continuously improving my backend and full stack development skills.
+Passionate about designing and developing scalable, user-friendly web applications using Java technologies. I enjoy building real-world projects, exploring modern frameworks, and continuously improving my backend and full stack development skills.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Graduate
-- 💼 Completed Software Developer Internship
-- ☕ Passionate about Java Full Stack Development
-- 🚀 Interested in Backend Development
+- 💼 Completed a Software Developer Internship
+- ☕ Passionate about Java Backend & Full Stack Development
+- 🚀 Interested in building scalable enterprise applications
 - 🌱 Currently learning **Spring Framework, Spring Boot, Hibernate & REST APIs**
-- 🎯 Goal: Become a skilled Java Full Stack Developer and build scalable enterprise applications.
+- 🎯 Goal: To become a Java Full Stack Developer and contribute to real-world software solutions.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### ⚙️ Backend Technologies
+## 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+## ⚙️ Backend Technologies
 
 <p>
 <img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -43,29 +51,20 @@ Passionate about building scalable Java applications and solving real-world prob
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 </p>
 
-### 🏗️ Architecture
-
-<p>
-<img src="https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DAO-Pattern-green?style=for-the-badge"/>
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🗄️ Database
+## 🗄️ Database
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🛠️ Tools
+## 🏗️ Architecture
+
+<p>
+<img src="https://img.shields.io/badge/MVC_Architecture-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAO_Pattern-4CAF50?style=for-the-badge"/>
+</p>
+
+## 🛠️ Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -78,64 +77,77 @@ Passionate about building scalable Java applications and solving real-world prob
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🍔 InstantFood – Full Stack Food Delivery Web Application
+## 🍔 InstantFood – Full Stack Food Delivery Web Application
 
 **Tech Stack:** Java • Servlets • JSP • JDBC • MySQL • Maven
 
-- ✅ User Authentication & Session Management
-- ✅ Restaurant Browsing & Dynamic Menu
-- ✅ Smart Shopping Cart
-- ✅ Secure Checkout & Order Placement
-- ✅ Order Tracking & Order History
-- ✅ MVC Architecture & DAO Pattern
+### Key Features
+- 🔐 User Authentication & Session Management
+- 🍽️ Restaurant Browsing & Dynamic Menu
+- 🛒 Shopping Cart Management
+- 💳 Secure Checkout & Order Placement
+- 📦 Order Tracking & Order History
+- 🏗️ Built using MVC Architecture & DAO Pattern
 
 ---
 
-### 👕 FashionStore – E-Commerce Web Application
+## 👕 FashionStore – Full Stack E-Commerce Web Application
 
-**Tech Stack:** Java • Servlets • JSP • JDBC • MySQL
+**Tech Stack:** Java • Servlets • JSP • JDBC • MySQL • HTML • CSS • JavaScript
 
-- ✅ User Authentication
-- ✅ Shopping Cart
-- ✅ Product Management
-- ✅ Admin Dashboard
-- ✅ Order Management
-
----
-
-### 🔐 Login Authentication System
-
-**Tech Stack:** Java Servlets
-
-- ✅ Secure Login Validation
-- ✅ Session Management
-- ✅ Login Attempt Control
+### Key Features
+- 🔐 User Authentication
+- 🛍️ Product Browsing & Filtering
+- 🛒 Shopping Cart
+- 📦 Order Management
+- 👤 User Profile Management
+- 🏗️ Developed using MVC Architecture & DAO Pattern
 
 ---
 
-### 👤 User Registration System
+## 🔐 Login Authentication System
+
+**Tech Stack:** Java • Servlets
+
+### Key Features
+- Secure Login Validation
+- Session Management
+- Form Validation
+- Authentication using Servlets
+
+---
+
+## 👤 User Registration System
 
 **Tech Stack:** Java • JDBC • MySQL
 
-- ✅ User Registration
-- ✅ JDBC Connectivity
-- ✅ MVC Architecture
+### Key Features
+- User Registration
+- JDBC Connectivity
+- Input Validation
+- MVC Architecture
 
 ---
 
-## 🌱 Currently Exploring
+# 🌱 Currently Learning
 
-- 🌿 Spring IoC
-- 💉 Dependency Injection
+- 🌿 Spring Framework
 - 🚀 Spring Boot
 - 🗄️ Hibernate ORM
-- 🌐 REST APIs
+- 🌐 RESTful APIs
+- ☁️ Backend Development Best Practices
 
 ---
 
-## 🤝 Connect With Me
+# 🎯 Career Objective
+
+I aspire to become a skilled Java Full Stack Developer by building scalable, maintainable, and high-performance enterprise applications while continuously learning modern technologies and software development best practices.
+
+---
+
+# 🤝 Connect With Me
 
 📧 **Email**
 
@@ -151,8 +163,8 @@ https://github.com/Deekshith06452
 
 ---
 
-<h3 align="center">⭐ Thank you for visiting my profile! ⭐</h3>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
-Let's connect, collaborate, and build amazing software together 🚀
+Let's connect, collaborate, and build amazing software together! 🚀
 </p>
