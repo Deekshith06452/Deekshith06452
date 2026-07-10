@@ -1,155 +1,107 @@
 <h1 align="center">Hi 👋, I'm Deekshith Gowda S</h1>
-<h3 align="center">Aspiring Java Full Stack Developer | Backend Enthusiast | Problem Solver</h3>
+
+<h3 align="center">
+🎓 Computer Science Engineering Graduate <br>
+💼 Software Developer Intern <br>
+☕ Aspiring Java Full Stack Developer
+</h3>
 
 <p align="center">
-I am a passionate Computer Science Engineering student with a strong interest in building scalable Java applications and solving real-world problems using modern technologies.
-Currently pursuing a Java Full Stack Internship at <b>Tap Academy</b>, where I continuously learn and build industry-level projects.
+Passionate about building scalable Java applications and solving real-world problems using modern technologies.
+Currently strengthening my skills in Java Full Stack Development by building industry-level projects and continuously learning Spring technologies.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Science Engineering Graduate
-
-💼 Software Developer Intern
-
-☕ Passionate Java Full Stack Developer
-
-🌱 Currently Learning
-- Spring Framework
-- Spring Boot
-- Hibernate ORM
-
-
-💡 Interested In
-- Backend Development
-- Full Stack Java Development
-- Software Engineering
-
-🚀 Goal
-Become a skilled Java Backend / Full Stack Developer.
+- 🎓 Computer Science Engineering Graduate
+- 💼 Completed Software Developer Internship
+- ☕ Passionate Java Full Stack Developer
+- 🚀 Interested in Backend Development
+- 🌱 Currently learning Spring Framework, Spring Boot & Hibernate
+- 🎯 Goal: Become a skilled Java Full Stack Developer
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Programming Languages
+### 💻 Languages
+`Java` • `SQL` • `JavaScript`
 
-Java • SQL • JavaScript
+### ⚙ Backend
+`Servlets` • `JSP` • `JDBC` • `Spring Core` • `Hibernate`
 
-### Backend
+### 🏗 Architecture
+`MVC Architecture` • `DAO Pattern`
 
-Java Servlets
+### 🎨 Frontend
+`HTML5` • `CSS3` • `Bootstrap` • `JavaScript`
 
-JSP
+### 🗄 Database
+`MySQL`
 
-JDBC
-
-Hibernate
-
-Spring Core
-
-MVC Architecture
-
-DAO Pattern
-
-### Frontend
-
-HTML5
-
-CSS3
-
-JavaScript
-
-### Database
-
-MySQL
-
-### Tools & Technologies
-
-Git
-
-GitHub
-
-Maven
-
-Apache Tomcat
-
-Eclipse IDE
-
-VS Code
+### 🔧 Tools
+`Git` • `GitHub` • `Maven` • `Apache Tomcat` • `Eclipse IDE` • `VS Code`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🍔 InstantFood
-A Full Stack Food Delivery Web Application inspired by modern food delivery platforms.
+## 🍔 InstantFood
+### Full Stack Food Delivery Web Application
 
-✔ User Authentication
-
-✔ Restaurant Browsing
-
-✔ Smart Cart
-
-✔ Order Tracking
-
-✔ MVC Architecture
-
-✔ JDBC + MySQL
-
-✔ Session Management
+- User Authentication & Authorization
+- Restaurant Browsing
+- Smart Shopping Cart
+- Order Placement & Tracking
+- Session Management
+- MVC Architecture & DAO Pattern
+- Java Servlets + JSP + JDBC + MySQL
 
 ---
 
-### 👕
+## 👕 FashionStore
+### Full Stack E-Commerce Web Application
 
-FashionStore
-
-An E-Commerce web application developed using Java Servlets, JSP, JDBC and MySQL.
-
-Features:
-
-• User Login
-
-• Shopping Cart
-
-• Admin Dashboard
-
-• Product Management
-
-• Order Management
+- User Login
+- Shopping Cart
+- Admin Dashboard
+- Product Management
+- Order Management
+- Java Servlets + JSP + JDBC + MySQL
 
 ---
 
-### 🔐 Login Authentication System
+## 🔐 Login Authentication System
 
-A Java Servlet based Login Authentication application implementing secure login validation using Session Management.
-
----
-
-### 👤 User Registration System
-
-Registration system developed using Java Servlets, JDBC and MySQL following MVC Architecture.
+- Secure Login Validation
+- Session Management
+- Multiple Login Attempts
+- Java Servlets
 
 ---
 
-## 📚 Currently Exploring
+## 👤 User Registration System
 
-✔ Spring IoC
-
-✔ Dependency Injection
-
-✔ Spring Boot
-
-✔ REST APIs
-
-✔ Advanced Backend Development
+- User Registration
+- JDBC Connectivity
+- MVC Architecture
+- MySQL Integration
 
 ---
 
-## 📈 GitHub Stats
+# 🌱 Currently Exploring
+
+- 🌿 Spring IoC
+- 💉 Dependency Injection
+- 🚀 Spring Boot
+- 🌐 REST APIs
+- 🗄 Hibernate ORM
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -159,32 +111,26 @@ Registration system developed using Java Servlets, JDBC and MySQL following MVC 
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshith06452&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
-## 🤝 Connect with Me
+# 🤝 Connect With Me
 
-📧 Email
+📧 **Email**
 
 gowdasd568@gmail.com
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/deekshith-gowda-s-9aa7382a8/
 
-🌐 GitHub
+🐙 **GitHub**
 
 https://github.com/Deekshith06452
 
 ---
 
 <h3 align="center">
-⭐ Thank you for visiting my profile!
+⭐ Thank you for visiting my profile! ⭐
 </h3>
 
 <p align="center">
